@@ -1,0 +1,6 @@
+{
+  "name": "بُنّ تك | BunnTech",
+  "description": "منصة بُنّ تك (BunnTech) — بورصة متكاملة لتداول البن الأخضر بين المصدّرين والمستوردين والمحامص (B2B) ومتجر للقهوة المحمصة المختصة (B2C) بعملات وأسواق متعددة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
